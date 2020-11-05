@@ -1,0 +1,30 @@
+
+body{
+background:#000000;
+ 
+overflow:hidden;
+}
+#BgImg{
+position:absolute;
+z-index:-100;
+}
+#main{
+ 
+width:700px;
+height:700px;
+color:#ffffff;
+position:absolute;
+z-index:12;
+left:150px;
+top:30px;
+ 
+border-radius:1px;
+box-shadow:-1px -1px 4px rgba(115,115,115,0.6) inset,
+			1px 1px 4px rgba(115,115,115,0.6) inset
+;
+}
+#canvas{
+z-index:1;
+position:absolute;
+ 
+}
