@@ -1,3 +1,4 @@
+[BLOG](https://bugprotectionassociation.wordpress.com/)		    [ITCH](https://bugprotectionassociation.itch.io/)
 # Bug Protection Association
 ***
 BUG is good, but...
@@ -18,7 +19,7 @@ So
 ***
 
 
-I konw you are interesting in bugs. So join us!
+We konw you are interested in bugs. So join us!
 
 The bright future is waiting us!
 ## Just now!
