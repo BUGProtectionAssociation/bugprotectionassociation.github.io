@@ -16,7 +16,7 @@ So
 +++
 I konw you are interesting in bugs. So join us!
 
-The light tomorrow is waiting us!
+The bright future is waiting us!
 ## Just now!
 
 We believe you could make a right choice, not that?
