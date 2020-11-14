@@ -1,2 +1,2 @@
-# BUG保护协会网站
+# bugprotectionassociation.github.io
 BUG真不错
