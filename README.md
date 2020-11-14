@@ -1,4 +1,4 @@
-Other website:[BLOG](https://bugprotectionassociation.wordpress.com/)	  &  [ITCH](https://bugprotectionassociation.itch.io/) [More websites are coming soon！](http://)
+Other website:[BLOG](https://bugprotectionassociation.wordpress.com/)	  &  [ITCH](https://bugprotectionassociation.itch.io/) [More websites are coming soon！](https://github.com/BUGProtectionAssociation/bugprotectionassociation.github.io/issues)
 # Bug Protection Association
 ***
 BUG is good, but...
