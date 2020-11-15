@@ -1,4 +1,6 @@
-Other website:[BLOG](https://bugprotectionassociation.wordpress.com/)	  &  [ITCH](https://bugprotectionassociation.itch.io/) [More websites are coming soon！](https://github.com/BUGProtectionAssociation/bugprotectionassociation.github.io/issues)
+Other website:[BLOG](https://bugprotectionassociation.wordpress.com/)  [ITCH](https://bugprotectionassociation.itch.io/) [indiegala](https://systemmanager.indiegala.com/)
+
+[More websites are coming soon！](https://github.com/BUGProtectionAssociation/bugprotectionassociation.github.io/issues)
 # Bug Protection Association
 ***
 BUG is good, but...
@@ -17,7 +19,6 @@ So
 <h2 align="center">BUG LIVES MATTER</h2>
 
 ***
-
 
 We konw you are interested in bugs. So join us!
 
