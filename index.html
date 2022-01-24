@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<link rel="stylesheet" type="text/css" href="css/index.css"/>
-	<script src="js/jquery-1.7.2.min.js" type="text/javascript"></script>
-	<script src="js/StackBlur.js" type="text/javascript"></script>
+
 </head>
 <body>
 <h1 align="center">Bug Lives Matter!</h1>
@@ -24,79 +22,5 @@
 <h3 style="text-align:center">other website</h3>
 <a href="https://bugprotectionassociation.itch.io">itch</a>
 </body>
-<script>
-//拖动
-function change(obj,moves) 
-{
-		moves.οnmοusedοwn=function(ev)
-		{	
-			
-			var disx=0;
-			var disy=0;
-			var oev=ev||event;
-			
-			disx=oev.clientX-obj.offsetLeft;
-			disy=oev.clientY-obj.offsetTop;
-			document.οnmοusemοve=function(ev)
-			{
- 
- 
-				var oev=ev||event;
-				var l=oev.clientX-disx; //DIV x轴位置
-				var t=oev.clientY-disy;	//DIV y轴位置
-				if(l<0)
-				{
-					l=0;
-				}  
-				else if(l>document.documentElement.clientWidth-obj.offsetWidth)
-				{
-					l=document.documentElement.clientWidth-obj.offsetWidth;
-				}
-				if(t<0)
-				{
-					t=0;
-				}
- 
- 
- 
- 
-				obj.style.left=l+"px";
-				obj.style.top=t+"px";
-				Blur();
-			}
- 
- 
-			document.οnmοuseup=function()
-			{
-				Blur();
-				document.οnmοusemοve=null;
-				document.οnmοuseup=null;
- 
- 
-			}
-			return false; //组织默认事件 
-		}
-			
- 
- 
- 
- 
- 
- 
-}
-function Blur(){
-		
-		stackBlurImage( 'BgImg', 'canvas', 32,'main' );
-}
-window.οnlοad=function(){
-	
-	var aa = document.getElementById("canvas");
-	var bb = document.getElementById("main");
-	change(bb,bb);
- 
- 
-}
-	
-</script>
 
 </html>
